@@ -37,4 +37,5 @@ Die Daten werden in Trainings- und Testsets aufgeteilt, um ein logistisches Regr
 Nach dem Training des Modells werden Vorhersagen für die Testdaten getroffen. Anschließend wird ein Klassifizierungsreport erstellt, um die Leistung des Modells zu bewerten. Dieser Report enthält Informationen zur Genauigkeit, Präzision, Rückrufrate und F1-Score des Modells.
 
 Ergebnis
+
 Das trainierte Modell kann erfolgreich vorhersagen, ob ein Nutzer auf eine Werbeanzeige klicken wird oder nicht, basierend auf den gegebenen Merkmalen. Die Ergebnisse werden im Klassifizierungsreport dargestellt, der eine Genauigkeit von etwa 91% aufweist. Dies deutet darauf hin, dass das Modell gute Vorhersagen treffen kann, ob ein Nutzer auf die Anzeige klicken wird oder nicht.
